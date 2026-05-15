@@ -2,14 +2,14 @@
 
 Sou um artista de 46 anos que programa a mais de 24 anos.
 
+- [x] Programador Markdown
+- [x] Vibe coder fullstack
 - [x] Do bloco de notas ao VsCode.
 - [x] Do html com tabelas ao html sem tabelas
 - [x] Do Java Applet ao Treejs
 - [x] Do ASP 1.0 ao GO
 - [x] Do Access ao MongoDB
 
-
-Hoje na programação faço sistema web, apps mobile. A linguagem e infra depende do que é preciso.
 
 ## Por onde ando
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
